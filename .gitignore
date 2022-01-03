@@ -1,4 +1,5 @@
 admin/
 bin/
 config/
+git-commands.txt
 *.sass
